@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VM4rio
 - 👀 I’m interested in ICT 
-- 🌱 I’m currently learning Azure Admin, Teraform, CCNA
+- 🌱 I’m currently learning Security and Compliance, Identity Management. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
