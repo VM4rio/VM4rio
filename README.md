@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @VM4rio
-- 👀 I’m interested in ICT 
-- 🌱 I’m currently learning Security and Compliance, Identity Management. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ICT / Scriptin / HomeLab
+- 🌱 I’m currently learning Security and Compliance, Identity Management and also other IT cool stuffs. 
 
 <!---
 VM4rio/VM4rio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
