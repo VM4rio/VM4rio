@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VM4rio
-- 👀 I’m interested in ICT / Scriptin / HomeLab
+- 👀 I’m interested in ICT / Scripting / HomeLab
 - 🌱 I’m currently learning Security and Compliance, Identity Management and also other IT cool stuffs. 
 
 <!---
